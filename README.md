@@ -1,2 +1,2 @@
-# LeetCode-Go-Py3
+# LeetCode
 
